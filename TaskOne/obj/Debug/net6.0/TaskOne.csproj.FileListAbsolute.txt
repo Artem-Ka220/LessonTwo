@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\bin\Debug\net6.0\TaskOne.exe
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\bin\Debug\net6.0\TaskOne.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\TaskOne.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll
