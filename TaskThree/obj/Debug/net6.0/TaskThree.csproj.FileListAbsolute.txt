@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\bin\Debug\net6.0\TaskThree.exe
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\bin\Debug\net6.0\TaskThree.deps.json
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\bin\Debug\net6.0\TaskThree.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\bin\Debug\net6.0\TaskThree.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\bin\Debug\net6.0\TaskThree.pdb
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\TaskThree.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\TaskThree.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\TaskThree.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\TaskThree.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\TaskThree.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\refint\TaskThree.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\TaskThree.pdb
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\TaskThree.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningTwo\LessonHomeWork\TaskThree\obj\Debug\net6.0\ref\TaskThree.dll
